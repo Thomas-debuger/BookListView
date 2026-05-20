@@ -62,3 +62,6 @@
 
 ### 大圖示加詳細資料
 <img width="868" height="635" alt="image" src="https://github.com/user-attachments/assets/2ce5402f-3d7a-4c53-a2f3-991f68242367" />
+
+### 變色功能
+<img width="870" height="635" alt="image" src="https://github.com/user-attachments/assets/4ddc75a8-0bb1-4f6e-a382-dd634ad40255" />
