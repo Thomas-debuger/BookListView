@@ -48,7 +48,17 @@
 
 ## 程式截圖
 
-> **提示**：請將您專案實際運行時的畫面截圖命名為 `screenshot.png`，並與此 `README.md` 檔案放在同一個目錄下。
+### 大圖示
+<img width="868" height="636" alt="image" src="https://github.com/user-attachments/assets/1e830c9a-7ca5-47da-b381-f782c9ffe193" />
 
-![圖書管理程式主畫面](./screenshot.png)
-*(上圖為圖書管理程式之初始執行介面)*
+### 詳細資料
+<img width="870" height="637" alt="image" src="https://github.com/user-attachments/assets/1d759ef1-fbb7-4226-a8bc-b1f53b2ce890" />
+
+### 小圖示
+<img width="872" height="637" alt="image" src="https://github.com/user-attachments/assets/88077a22-4f3c-48a4-951f-0e04d65f2a0c" />
+
+### 清單
+<img width="872" height="638" alt="image" src="https://github.com/user-attachments/assets/6dcfb7dd-eaf7-4bed-93a7-39af781a9877" />
+
+### 大圖示加詳細資料
+<img width="868" height="635" alt="image" src="https://github.com/user-attachments/assets/2ce5402f-3d7a-4c53-a2f3-991f68242367" />
